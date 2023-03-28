@@ -23,7 +23,7 @@ int main() {
 		for(int k=0;k<l-2;k++){
 			if(c[k]=='6' && c[k+1]=='6' && c[k+2]=='6'){
 				arr[i]=j;
-				//cout<<"i: "<<i<<" "<<n<<endl;
+				cout<<"i: "<<i<<" "<<n<<endl;
 				i++;
 				
 					if(i==n){
